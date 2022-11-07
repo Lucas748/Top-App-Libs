@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>pt,br</string>
+	<key>CFBundleDisplayName</key>
+	<string>TopSapp</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>af60af5434619285841698cbeb69e2318e6b1a48</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict/>
+				<key>KitName</key>
+				<string>Crashlytics</string>
+			</dict>
+		</array>
+	</dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>mailto</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Play using while you are hiking</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Permitir acessar o recurso de descrição do bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Permitir acessar o bluetooth para melhor funcionamento do aplicativo.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Permitir acessar sua agenda para melhor funcionamento do aplicativo.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Permitir acessar sua camera para realizar login com maior comodidade e enviar fotos em chamados.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Permitir acessar descrição de contatos para melhorar o desempenho no compartilhamento de faturas.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Usaremos o Face ID para uma melhor experiencia e melhor segurança.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>App requires background tracking</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Permitir o uso do localização do dispositivo em tempo real para sincronizar a posição de marcadores, postes e outros recursos presentes neste aplicativo.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Permitir o uso da localização do dispositivo para recursos de atendimento ao cliente e gerenciamento de uma plataforma de mapas.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Permitir acessar o microfone para melhor funcionamento do aplicativo.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Permitir o uso do sensor de movimento para monitorar o técnico proprietário deste aplicativo.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Permitir acessar as fotos para melhor funcionamento do aplicativo.</string>
+	<key>NSSiriUsageDescription</key>
+	<string>Permitir acessar a Siri para melhor funcionamento do aplicativo.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Permitir acessar o recurso de reconhecimento de voz para melhor funcionamento do aplicativo.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>FontAwesome.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>Feather.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden~ipad</key>
+	<true/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>94B7FEE1-063E-4C65-9248-8679ABC214F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94B7FEE1-063E-4C65-9248-8679ABC214F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TopSappMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TopSappMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TopSappMobile with scheme TopSappMobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>665086568.08947504</real>
+			<key>timeStoppedRecording</key>
+			<real>665086573.42852104</real>
+			<key>title</key>
+			<string>Building workspace TopSappMobile with scheme TopSappMobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>94B7FEE1-063E-4C65-9248-8679ABC214F5</string>
+		</dict>
+		<key>AB62E860-CDB7-424C-BA55-6B9BCF6BF5E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB62E860-CDB7-424C-BA55-6B9BCF6BF5E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TopSappMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TopSappMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace TopSappMobile with scheme TopSappMobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>665326376.77000999</real>
+			<key>timeStoppedRecording</key>
+			<real>665326381.43457901</real>
+			<key>title</key>
+			<string>Building workspace TopSappMobile with scheme TopSappMobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AB62E860-CDB7-424C-BA55-6B9BCF6BF5E0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

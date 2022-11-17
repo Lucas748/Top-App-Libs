@@ -74,6 +74,7 @@
     "react-native-fabric": "git+https://github.com/Multiware-Tecnologia/react-native-fabric.git",
     "react-native-fingerprint-scanner": "^4.0.0",
     "react-native-firebase": "^5.5.6",
+    "react-native-format-currency": "^0.0.3",
     "react-native-formik": "^1.7.6",
     "react-native-fs": "^2.13.3",
     "react-native-geolocation-service": "^3.0.0",

@@ -1941,7 +1941,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = Q4F27R9VX7;
 				ENABLE_BITCODE = YES;
@@ -2000,11 +2000,11 @@
 					"\"$(SRCROOT)/TopSappMobile/System/Library/Frameworks\"",
 					"\"$(SRCROOT)/TopSappMobile\"",
 				);
-				MARKETING_VERSION = 2.15.1;
+				MARKETING_VERSION = 2.16.3;
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.topsapp;
 				PRODUCT_NAME = TopSappMobile;
-				PROVISIONING_PROFILE_SPECIFIER = "TopSapp Development";
+				PROVISIONING_PROFILE_SPECIFIER = TopAppDev;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -2019,7 +2019,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = Q4F27R9VX7;
 				ENABLE_BITCODE = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
@@ -2078,12 +2078,12 @@
 					"\"$(SRCROOT)/TopSappMobile/System/Library/Frameworks\"",
 					"\"$(SRCROOT)/TopSappMobile\"",
 				);
-				MARKETING_VERSION = 2.15.1;
+				MARKETING_VERSION = 2.16.3;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.topsapp;
 				PRODUCT_NAME = TopSappMobile;
-				PROVISIONING_PROFILE_SPECIFIER = "TopSapp Development";
+				PROVISIONING_PROFILE_SPECIFIER = TopAppDev;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
